@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "avocatory-clone",
+    "name": "avocatory-heb",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -32,14 +32,22 @@
     "versionFirst": "4.4.1",
     "uniqCompNum": 14,
     "versionPublish": "4.4.1",
-    "path": "@PROJECT_PATH@"
+    "path": "@PROJECT_PATH@",
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsSwitcher": "",
+    "siteUrl": "",
+    "sitemapSwitcherAuto": "on",
+    "favicon": "",
+    "noImageResize": "",
+    "google-analytics": "מחלקת השרותים הנוטריוניים של \r\nמשרד עורכי הדין בנימין ושות'\r\n",
+    "cookiesAlert": ""
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "מחלקת השרותים הנוטריוניים של  משרד עורכי הדין בנימין ושות'",
+        "meta_descr": "מחלקת השרותים הנוטריוניים של  משרד עורכי הדין בנימין ושות'",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
